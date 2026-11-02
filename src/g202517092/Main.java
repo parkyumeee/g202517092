@@ -6,6 +6,7 @@ public class Main {
 		
 		System.out.println("박유미");
 		World.run();
+		Hello.run();
 	}
 
 }
